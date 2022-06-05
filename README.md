@@ -1,2 +1,3 @@
-"# justnathan" 
-[Here it is!](https://justnathan.surge.sh)
+# justnathan
+
+[Open site >](https://justnathan.surge.sh)
